@@ -1,7 +1,7 @@
 <h1 align="center">Aprendendo Docker</h1>
 
 <h4 align="center"> 
-	📖  Estudos 🐳 Em andamento...  📖
+	📖  Estudos 🐳
 </h4>
 
 ## O que são containers?
